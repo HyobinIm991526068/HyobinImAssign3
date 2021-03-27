@@ -103,4 +103,9 @@ public class CanvasView extends View {
         }
         return true;
     }
+
+    public void wipeCanvas() {
+        mPath.reset();
+        invalidate();
+    }
 }

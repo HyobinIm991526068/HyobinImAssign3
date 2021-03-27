@@ -1888,6 +1888,7 @@ id hyobinBtn
 id hyobinIV
 id hyobinTV
 id hyobin_canvas
+id hyobin_label
 id hyobin_tabs
 id hyobin_view_pager
 id icon
@@ -2322,6 +2323,7 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
+string hyobin_label
 string icon_content_description
 string info
 string item_view_role_description
@@ -2806,6 +2808,9 @@ style Theme_Design_Light_BottomSheetDialog
 style Theme_Design_Light_NoActionBar
 style Theme_Design_NoActionBar
 style Theme_HyobinAssign3
+style Theme_HyobinAssign3_AppBarOverlay
+style Theme_HyobinAssign3_NoActionBar
+style Theme_HyobinAssign3_PopupOverlay
 style Theme_MaterialComponents
 style Theme_MaterialComponents_BottomSheetDialog
 style Theme_MaterialComponents_Bridge
