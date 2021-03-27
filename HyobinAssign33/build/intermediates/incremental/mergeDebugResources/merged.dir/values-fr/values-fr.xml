@@ -31,13 +31,17 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="app_name">Hyobin Im s991526068</string>
     <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
     <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
+    <string name="clear_btn">Clear Canvas</string>
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="error_icon_content_description">Erreur</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string name="info">Hyobin Im 991526068</string>
     <string name="item_view_role_description">Tabulation</string>
     <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
     <string name="material_hour_selection">Sélectionnez une heure</string>
@@ -87,4 +91,7 @@
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string msgid="6264217191555673260" name="search_menu_title">"Rechercher"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tab1_text">Hyobin</string>
+    <string name="tab2_text">Im</string>
+    <string name="tab3_text">S991526068</string>
 </resources>
