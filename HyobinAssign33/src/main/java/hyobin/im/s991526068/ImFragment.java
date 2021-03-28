@@ -28,6 +28,8 @@ import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.google.android.material.snackbar.Snackbar;
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link ImFragment#newInstance} factory method to
@@ -123,8 +125,11 @@ public class ImFragment extends Fragment implements View.OnClickListener{
             case REQUEST_CODE_ASK_PERMISSIONS:
                 if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                     call();
+                } else {
+                    Snackbar.make(view, "Permission Denied", Snackbar.LENGTH_LONG).setAction("Action",null).show();
                 }
                 break;
+
             default:
                 super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         }
