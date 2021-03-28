@@ -18,4 +18,8 @@
     <string name="start_button">Start</string>
     <string name="stop_button">Stop</string>
     <string name="speed_button">Change Speed</string>
+    <string name="hyobin_200">200</string>
+    <string name="hyobin_150">150</string>
+    <string name="hyobin_100">100</string>
+    <string name="hyobin_50">50</string>
 </resources>

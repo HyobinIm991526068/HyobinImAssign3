@@ -16,15 +16,17 @@ import android.os.Bundle;
 
 import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.ViewModelProvider;
 import androidx.lifecycle.ViewModelProviders;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
+import android.widget.TextView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -41,6 +43,8 @@ public class ImFragment extends Fragment implements View.OnClickListener{
     AnimationDrawable mframeAnimation = null;
     private int speed;
     private int duration = 250;
+    private Spinner spinner;
+
 
     public ImFragment() {
         // Required empty public constructor
@@ -56,6 +60,7 @@ public class ImFragment extends Fragment implements View.OnClickListener{
         super.onCreate(savedInstanceState);
         pageViewModel = ViewModelProviders.of(this).get(PageViewModel.class);
         pageViewModel.setIndex(TAG);
+
     }
 
     @Override
@@ -63,6 +68,8 @@ public class ImFragment extends Fragment implements View.OnClickListener{
                              Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.fragment_im, container, false);
         imageView = (ImageView) view.findViewById(R.id.hyobin_imageView);
+
+        spinner = (Spinner) view.findViewById(R.id.hyobin_speed_spinner);
 
         final Button callButton = (Button) view.findViewById(R.id.hyobin_call_button);
         callButton.setOnClickListener((View.OnClickListener) this);
@@ -156,8 +163,9 @@ public class ImFragment extends Fragment implements View.OnClickListener{
 
     private void setSpeed()
     {
-        EditText text = (EditText) view.findViewById(R.id.hyobin_speed);
-        speed = Integer.valueOf(text.getText().toString());
+
+        TextView selected = (TextView)spinner.getSelectedView();
+        speed = Integer.valueOf(selected.getText().toString());
         duration = speed;
     }
 }
