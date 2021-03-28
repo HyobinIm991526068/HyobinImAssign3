@@ -16,6 +16,10 @@
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run3.png"
     },
     {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_moon.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\moon.png"
+    },
+    {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run5.png.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run5.png"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\layout_fragment_im.xml.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\layout\\fragment_im.xml"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_moon.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\moon.png"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -46,6 +54,10 @@
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run4.png.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run4.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\anim_rotate_right.xml.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\anim\\rotate_right.xml"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -80,8 +92,20 @@
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run4.png"
     },
     {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_earth.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\earth.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\anim_rotate_left.xml.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\anim\\rotate_left.xml"
+    },
+    {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run6.png.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run6.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_earth.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\earth.png"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run2.png.flat",
@@ -102,6 +126,10 @@
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run3.png.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run3.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\anim_moon_orbit.xml.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\anim\\moon_orbit.xml"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",

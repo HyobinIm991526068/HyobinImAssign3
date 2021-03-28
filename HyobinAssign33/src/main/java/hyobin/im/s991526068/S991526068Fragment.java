@@ -6,6 +6,7 @@
  */
 package hyobin.im.s991526068;
 
+import android.content.Context;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -15,10 +16,21 @@ import androidx.lifecycle.ViewModelProviders;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 
 public class S991526068Fragment extends Fragment {
 
+    private TextView firstName;
+    private TextView lastName;
+    private ImageView imageView;
+    private Animation rotateLeft;
+    private Animation rotateRight;
+    private Animation orbit;
+    Context context;
     private static final String TAG = "S991526068";
     private PageViewModel pageViewModel;
 
@@ -41,7 +53,20 @@ public class S991526068Fragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_s991526068, container, false);
+
+        context = container.getContext();
+        View view = inflater.inflate(R.layout.fragment_s991526068, container, false);
+        firstName =(TextView)view.findViewById(R.id.hyobin_firstname);
+        lastName = (TextView)view.findViewById(R.id.hyobin_lastname);
+        imageView = (ImageView)view.findViewById(R.id.hyobin_moon);
+
+        rotateLeft = AnimationUtils.loadAnimation(context, R.anim.rotate_left);
+        rotateRight = AnimationUtils.loadAnimation(context, R.anim.rotate_right);
+        orbit = AnimationUtils.loadAnimation(context, R.anim.moon_orbit);
+
+        firstName.startAnimation(rotateLeft);
+        lastName.startAnimation(rotateRight);
+        imageView.startAnimation(orbit);
+        return view;
     }
 }

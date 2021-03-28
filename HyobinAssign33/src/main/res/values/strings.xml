@@ -22,6 +22,8 @@
     <string name="hyobin_150">150</string>
     <string name="hyobin_100">100</string>
     <string name="hyobin_50">50</string>
+    <string name="firstname">Hyobin</string>
+    <string name="lastname">Im</string>
     <string-array name="speeds">
         <item>200</item>
         <item>150</item>

@@ -34,9 +34,12 @@ anim fragment_fade_exit
 anim fragment_fast_out_extra_slow_in
 anim fragment_open_enter
 anim fragment_open_exit
+anim moon_orbit
 anim mtrl_bottom_sheet_slide_in
 anim mtrl_bottom_sheet_slide_out
 anim mtrl_card_lowers_interpolator
+anim rotate_left
+anim rotate_right
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1656,6 +1659,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable earth
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1674,6 +1678,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable moon
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1896,8 +1901,12 @@ id hyobinIV
 id hyobinTV
 id hyobin_call_button
 id hyobin_canvas
+id hyobin_earth
+id hyobin_firstname
 id hyobin_imageView
 id hyobin_label
+id hyobin_lastname
+id hyobin_moon
 id hyobin_speed_button
 id hyobin_speed_spinner
 id hyobin_start_button
@@ -2335,6 +2344,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string firstname
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string hyobin_100
@@ -2345,6 +2355,7 @@ string hyobin_label
 string icon_content_description
 string info
 string item_view_role_description
+string lastname
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection
