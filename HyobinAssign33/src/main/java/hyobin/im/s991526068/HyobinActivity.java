@@ -10,7 +10,10 @@ package hyobin.im.s991526068;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
+import android.graphics.Color;
+import android.graphics.Paint;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Toast;
 
 import com.google.android.material.tabs.TabLayout;
@@ -51,4 +54,5 @@ public class HyobinActivity extends AppCompatActivity {
             }
         });
     }
+
 }

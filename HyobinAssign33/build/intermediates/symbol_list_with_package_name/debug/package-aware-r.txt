@@ -1695,6 +1695,12 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable run1
+drawable run2
+drawable run3
+drawable run4
+drawable run5
+drawable run6
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1887,8 +1893,14 @@ id honorRequest
 id hyobinBtn
 id hyobinIV
 id hyobinTV
+id hyobin_call_button
 id hyobin_canvas
+id hyobin_imageView
 id hyobin_label
+id hyobin_speed
+id hyobin_speed_button
+id hyobin_start_button
+id hyobin_stop_button
 id hyobin_tabs
 id hyobin_view_pager
 id icon
@@ -2311,6 +2323,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
+string call_button
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -2383,7 +2396,10 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string speed_button
+string start_button
 string status_bar_notification_info_overflow
+string stop_button
 string tab1_text
 string tab2_text
 string tab3_text

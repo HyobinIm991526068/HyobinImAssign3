@@ -1,27 +1,27 @@
 [
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run3.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run3.png"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hyobin.xml.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\layout\\fragment_hyobin.xml"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run5.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run5.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\layout_fragment_im.xml.flat",
@@ -32,8 +32,8 @@
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run2.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run2.png"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -44,20 +44,20 @@
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run4.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run4.png"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run6.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run6.png"
     },
     {
-        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_android.png.flat",
-        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\android.png"
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run1.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run1.png"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -72,11 +72,59 @@
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run4.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run4.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run6.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run6.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable-v24_run2.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable-v24\\run2.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hyobin.xml.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\layout\\fragment_hyobin.xml"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run1.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run1.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run3.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run3.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_android.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\android.png"
+    },
+    {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\layout_fragment_s991526068.xml.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\layout\\fragment_s991526068.xml"
     },
     {
         "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\build\\intermediates\\res\\merged\\debug\\drawable_run5.png.flat",
+        "source": "C:\\Android\\HyobinAssign3\\HyobinAssign33\\src\\main\\res\\drawable\\run5.png"
     }
 ]
