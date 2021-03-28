@@ -1912,7 +1912,9 @@ id hyobin_lastname
 id hyobin_moon
 id hyobin_speed_button
 id hyobin_speed_spinner
+id hyobin_start
 id hyobin_start_button
+id hyobin_stop
 id hyobin_stop_button
 id hyobin_tabs
 id hyobin_thickness_spinner

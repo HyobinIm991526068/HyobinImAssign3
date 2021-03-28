@@ -28,8 +28,6 @@ public class HyobinFragment extends Fragment implements View.OnClickListener {
     private CanvasView customCanvas;
     private Spinner colorSpinner;
     private Spinner thicknessSpinner;
-    //String selectedColor;
-    //String selectedThickness;
 
     public HyobinFragment() {
         // Required empty public constructor

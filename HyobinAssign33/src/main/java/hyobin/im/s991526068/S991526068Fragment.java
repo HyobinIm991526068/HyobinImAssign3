@@ -18,11 +18,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 
-public class S991526068Fragment extends Fragment {
+public class S991526068Fragment extends Fragment implements View.OnClickListener{
 
     private TextView firstName;
     private TextView lastName;
@@ -56,6 +57,11 @@ public class S991526068Fragment extends Fragment {
 
         context = container.getContext();
         View view = inflater.inflate(R.layout.fragment_s991526068, container, false);
+
+        Button startButton = (Button) view.findViewById(R.id.hyobin_start);
+        startButton.setOnClickListener((View.OnClickListener)this);
+        Button stopButton = (Button) view.findViewById(R.id.hyobin_stop);
+        stopButton.setOnClickListener((View.OnClickListener)this);
         firstName =(TextView)view.findViewById(R.id.hyobin_firstname);
         lastName = (TextView)view.findViewById(R.id.hyobin_lastname);
         imageView = (ImageView)view.findViewById(R.id.hyobin_moon);
@@ -64,9 +70,23 @@ public class S991526068Fragment extends Fragment {
         rotateRight = AnimationUtils.loadAnimation(context, R.anim.rotate_right);
         orbit = AnimationUtils.loadAnimation(context, R.anim.moon_orbit);
 
-        firstName.startAnimation(rotateLeft);
-        lastName.startAnimation(rotateRight);
-        imageView.startAnimation(orbit);
         return view;
+    }
+
+    @Override
+    public void onClick(View view){
+        switch(view.getId())
+        {
+            case R.id.hyobin_start:
+                firstName.startAnimation(rotateLeft);
+                lastName.startAnimation(rotateRight);
+                imageView.startAnimation(orbit);
+                break;
+            case R.id.hyobin_stop:
+                firstName.clearAnimation();
+                lastName.clearAnimation();
+                imageView.clearAnimation();
+                break;
+        }
     }
 }
