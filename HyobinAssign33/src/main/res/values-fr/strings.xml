@@ -6,25 +6,23 @@
 -->
 <resources>
     <string name="app_name">Hyobin Im s991526068</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="info">Hyobin Im 991526068</string>
-    <string name="clear_btn">Clear Canvas</string>
+    <string name="clear_btn">Toile claire</string>
     <string name="tab1_text">Hyobin</string>
     <string name="tab2_text">Im</string>
     <string name="tab3_text">S991526068</string>
     <string name="hyobin_label">HyobinAssign3</string>
-    <string name="call_button">Call</string>
-    <string name="start_button">Start</string>
-    <string name="stop_button">Stop</string>
-    <string name="speed_button">Change Speed</string>
+    <string name="call_button">Appel</string>
+    <string name="start_button">Début</string>
+    <string name="stop_button">Arrêter</string>
+    <string name="speed_button">Changer de vitesse</string>
     <string name="hyobin_200">200</string>
     <string name="hyobin_150">150</string>
     <string name="hyobin_100">100</string>
     <string name="hyobin_50">50</string>
     <string name="firstname">Hyobin</string>
     <string name="lastname">Im</string>
-    <string name="change_brush">Change Brush</string>
+    <string name="change_brush">Changer de pinceau</string>
     <string-array name="speeds">
         <item>200</item>
         <item>150</item>
@@ -32,13 +30,13 @@
         <item>50</item>
     </string-array>
     <string-array name="colors">
-        <item>BLACK</item>
-        <item>BLUE</item>
-        <item>RED</item>
+        <item>NOIR</item>
+        <item>BLEU</item>
+        <item>ROUGE</item>
     </string-array>
     <string-array name="thickness">
-        <item>Thin</item>
-        <item>Medium</item>
-        <item>Thick</item>
+        <item>Mince</item>
+        <item>Moyen</item>
+        <item>Épais</item>
     </string-array>
 </resources>

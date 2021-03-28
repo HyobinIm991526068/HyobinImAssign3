@@ -41,7 +41,7 @@ public class HyobinActivity extends AppCompatActivity {
                 int position = tab.getPosition();
 
                 Toast.makeText(getApplicationContext(), "Tab selected is " +
-                        position, Toast.LENGTH_LONG).show();
+                        position, Toast.LENGTH_SHORT).show();
 
             }
 
