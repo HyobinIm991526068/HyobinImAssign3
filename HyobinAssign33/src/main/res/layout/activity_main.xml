@@ -12,15 +12,6 @@
         android:theme="@style/Theme.HyobinAssign3.AppBarOverlay"
         tools:ignore="MissingConstraints">
 
-        <TextView
-            android:id="@+id/hyobin_label"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:minHeight="?actionBarSize"
-            android:padding="16dp"
-            android:text="@string/hyobin_label"
-            android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title" />
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/hyobin_tabs"

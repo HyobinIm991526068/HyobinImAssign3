@@ -11,28 +11,28 @@
         android:id="@+id/hyobin_firstname"
         android:layout_width="140dp"
         android:layout_height="50dp"
-        android:text="@string/firstname"
         android:gravity="center"
+        android:text="@string/firstname"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.342" />
+        app:layout_constraintVertical_bias="0.105" />
 
     <TextView
         android:id="@+id/hyobin_lastname"
         android:layout_width="140dp"
         android:layout_height="50dp"
         android:layout_alignParentRight="true"
-        android:text="@string/lastname"
         android:gravity="center"
+        android:text="@string/lastname"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.94"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.342" />
+        app:layout_constraintVertical_bias="0.105" />
 
     <ImageView
         android:id="@+id/hyobin_earth"

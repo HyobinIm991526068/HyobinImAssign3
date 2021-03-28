@@ -24,10 +24,21 @@
     <string name="hyobin_50">50</string>
     <string name="firstname">Hyobin</string>
     <string name="lastname">Im</string>
+    <string name="change_brush">Change Brush</string>
     <string-array name="speeds">
         <item>200</item>
         <item>150</item>
         <item>100</item>
         <item>50</item>
+    </string-array>
+    <string-array name="colors">
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>RED</item>
+    </string-array>
+    <string-array name="thickness">
+        <item>Thin</item>
+        <item>Medium</item>
+        <item>Thick</item>
     </string-array>
 </resources>

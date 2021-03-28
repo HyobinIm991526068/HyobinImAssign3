@@ -6402,7 +6402,15 @@
         <item>150</item>
         <item>100</item>
         <item>50</item>
-    </string-array><string name="hyobin_150">150</string><string name="hyobin_100">100</string><string name="hyobin_200">200</string><string name="hyobin_50">50</string><string name="lastname">Im</string><string name="firstname">Hyobin</string></file><file path="C:\Android\HyobinAssign3\HyobinAssign33\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.HyobinAssign3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </string-array><string name="hyobin_150">150</string><string name="hyobin_100">100</string><string name="hyobin_200">200</string><string name="hyobin_50">50</string><string name="lastname">Im</string><string name="firstname">Hyobin</string><string name="change_brush">Change Brush</string><string-array name="thickness">
+        <item>Thin</item>
+        <item>Medium</item>
+        <item>Thick</item>
+    </string-array><string-array name="colors">
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>RED</item>
+    </string-array></file><file path="C:\Android\HyobinAssign3\HyobinAssign33\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.HyobinAssign3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -6422,7 +6430,15 @@
         <item>150</item>
         <item>100</item>
         <item>50</item>
-    </string-array><string name="lastname">Im</string></file><file path="C:\Android\HyobinAssign3\HyobinAssign33\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.HyobinAssign3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </string-array><string name="lastname">Im</string><string-array name="colors">
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>RED</item>
+    </string-array><string-array name="thickness">
+        <item>Thin</item>
+        <item>Medium</item>
+        <item>Thick</item>
+    </string-array><string name="change_brush">Change Brush</string></file><file path="C:\Android\HyobinAssign3\HyobinAssign33\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.HyobinAssign3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

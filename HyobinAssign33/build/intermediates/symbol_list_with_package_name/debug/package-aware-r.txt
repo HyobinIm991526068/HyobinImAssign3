@@ -60,7 +60,9 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array colors
 array speeds
+array thickness
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -1901,10 +1903,11 @@ id hyobinIV
 id hyobinTV
 id hyobin_call_button
 id hyobin_canvas
+id hyobin_changebrush_button
+id hyobin_color_spinner
 id hyobin_earth
 id hyobin_firstname
 id hyobin_imageView
-id hyobin_label
 id hyobin_lastname
 id hyobin_moon
 id hyobin_speed_button
@@ -1912,6 +1915,7 @@ id hyobin_speed_spinner
 id hyobin_start_button
 id hyobin_stop_button
 id hyobin_tabs
+id hyobin_thickness_spinner
 id hyobin_view_pager
 id icon
 id icon_group
@@ -2334,6 +2338,7 @@ string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string call_button
+string change_brush
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern

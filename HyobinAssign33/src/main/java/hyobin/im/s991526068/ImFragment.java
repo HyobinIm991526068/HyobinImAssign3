@@ -163,7 +163,6 @@ public class ImFragment extends Fragment implements View.OnClickListener{
 
     private void setSpeed()
     {
-
         TextView selected = (TextView)spinner.getSelectedView();
         speed = Integer.valueOf(selected.getText().toString());
         duration = speed;

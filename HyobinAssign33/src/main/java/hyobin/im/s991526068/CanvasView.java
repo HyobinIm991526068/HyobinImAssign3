@@ -108,4 +108,28 @@ public class CanvasView extends View {
         mPath.reset();
         invalidate();
     }
+
+    public void setRed(){
+        mPaint.setColor(Color.RED);
+    }
+
+    public void setBlue(){
+        mPaint.setColor(Color.BLUE);
+    }
+
+    public void setBlack(){
+        mPaint.setColor(Color.BLACK);
+    }
+
+    public void setThin(){
+        mPaint.setStrokeWidth(4f);
+    }
+
+    public void setMedium(){
+        mPaint.setStrokeWidth(8f);
+    }
+
+    public void setThick(){
+        mPaint.setStrokeWidth(12f);
+    }
 }
